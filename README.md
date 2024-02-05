@@ -2,7 +2,7 @@
 This is an implementation of the builder design pattern for learning purpose.
 
 # Source Code
-*[builder-pattern](https://github.com/hei-school/builder-pattern-Vohizy/tree/master)
+* [builder-pattern](https://github.com/hei-school/builder-pattern-Vohizy/tree/master)
 
 # Requirements
 * [maven]()
