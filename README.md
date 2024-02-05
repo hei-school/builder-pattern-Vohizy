@@ -1,1 +1,24 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/eYTuOlgZ)
+# Builder Pattern
+This is an implementation of the builder design pattern for learning purpose.
+
+# Requirements
+* [maven]()
+* [java 17](https://www.oracle.com/java/technologies/downloads/#java17)
+
+# How to run ?
+### Usage
+From this root directory run:
+```mvn install```
+then
+```mvn test```
+
+Linter and Coding standard
+
+### Coding standard
+
+The coding standard used is Google java style guide.
+
+#### Linter
+
+The linter used is checkstyle, configured with maven.
+
